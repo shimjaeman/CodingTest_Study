@@ -16,7 +16,7 @@
 3. (10/17~10/23) 그리디 알고리즘, 그래프(위상/유니온/탐색/표현 등)
 4. (10/24~10/30) 다이나믹 프로그래밍, 트리
 5. (10/31~11/6) 기타 알고리즘 (기하, 부분합, 정수론) 및 복습
-# 참고 : https://github.com/VSFe/Algorithm_Study
+* 참고 : https://github.com/VSFe/Algorithm_Study
 
 
 ## 4. 규칙
