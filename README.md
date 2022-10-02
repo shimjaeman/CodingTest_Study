@@ -34,15 +34,15 @@
 
 
 ## 참고 자료
-1. 알고리즘 이론 (youtube)
-* (엔지니어대한민국) https://www.youtube.com/user/damazzang/videos
-* (동빈나) https://www.youtube.com/c/dongbinna
-* (freeCodeCamp.org) https://www.youtube.com/c/Freecodecamp
-* (MIT OpenCourseWare) https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
-___  
-2. 알고리즘 이론 (github / blog)
-* (BaaaaaaaarkingDog) https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2
-* (VSFe) https://github.com/VSFe/Algorithm_Study
-___
-3. 코테 대비 문제집 
-* (tony9492) https://github.com/tony9402/baekjoon
+* 알고리즘 이론 (youtube)
+1. (엔지니어대한민국) https://www.youtube.com/user/damazzang/videos
+2. (동빈나) https://www.youtube.com/c/dongbinna
+3. (freeCodeCamp.org) https://www.youtube.com/c/Freecodecamp
+4. (MIT OpenCourseWare) https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+* 알고리즘 이론 (github / blog)
+1. (BaaaaaaaarkingDog) https://blog.encrypted.gg/category
+2. (VSFe) https://github.com/VSFe/Algorithm_Study
+
+* 코테 대비 문제집 
+1. (tony9492) https://github.com/tony9402/baekjoon
