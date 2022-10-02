@@ -27,13 +27,13 @@
   - weekend : 
 4. (plan) 개별적으로 알고리즘 이론공부가 끝난 뒤 계획은 차후에 다시 의논할 예정
 
-## 참고 도서 
+## 5. 참고 도서 
   - <이것이 취업을 위한 코딩테스트다 with 파이썬>, 나동빈, 도서와 유튜브 강의
   - <파이썬 알고리즘 인터뷰>, 박상길
   - <Do it! 알고리즘 코딩 테스트: 파이썬 편>, 김종관
 
 
-## 참고 자료
+## 6. 참고 자료
 * 알고리즘 이론 (youtube)
 1. (엔지니어대한민국) https://www.youtube.com/user/damazzang/videos
 2. (동빈나) https://www.youtube.com/c/dongbinna
