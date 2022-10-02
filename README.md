@@ -21,8 +21,9 @@
 
 ## 4. 규칙
 1. (one day) 코딩 테스트 1문제 이상 문제풀이하고 저녁 12시전까지 인증할 것
-2. (weekend) 알고리즘 이론 파트 정해진 분량 공부하고 블로그나 Github등의 사이트에 공부한 내용을 정리해서 일요일 12시전까지 인증할 것
-3. (penalty) 
+2. (weekend) 매주 정해진 공부범위를 공부 후 정리해서 일요일 12시전까지 인증할 것
+3. (weekend-미정) 주 1회 전주 학습 상태 점검(노트 필기 or 개인 sns 페이지 등) 및 질의응답 시간
+3. (penalty-미정) 
   - one day :
   - weekend : 
 4. (plan) 개별적으로 알고리즘 이론공부가 끝난 뒤 계획은 차후에 다시 의논할 예정
@@ -43,6 +44,7 @@
 * 알고리즘 이론 (github / blog)
 1. (BaaaaaaaarkingDog) https://blog.encrypted.gg/category
 2. (VSFe) https://github.com/VSFe/Algorithm_Study
+3. (tony9402) https://github.com/tony9402/baekjoon/blob/main/link_for_study.md
 
 * 코테 대비 문제집 
 1. (tony9492) https://github.com/tony9402/baekjoon
