@@ -4,11 +4,11 @@
 2022.10.03 ~ (미정)
 
 ## 2. 스터디 참여 인원 👩‍💻
-  * 심재만
-  * 손태산
-  * 김진수
-  * 안승아
-  * 정진명
+* <a href="https://github.com/shimjaeman">심재만</a>
+* <a href="">손태산</a>
+* <a href="">김진수</a>
+* <a href="">안승아</a>
+* <a href="">정진명</a>
 
 ## 3. 학습목차
 1. (10/4~10/9) 수학(합공식/피보나치수/약수/최대공약수/최소공배수 등), 자료구조 (배열/스택/큐/합/포인트 등)
@@ -35,14 +35,14 @@
 
 ## 참고 자료
 1. 알고리즘 이론 (youtube)
-  - (엔지니어대한민국) https://www.youtube.com/user/damazzang/videos
-  - (동빈나) https://www.youtube.com/c/dongbinna
-  - (freeCodeCamp.org) https://www.youtube.com/c/Freecodecamp
-  - (MIT OpenCourseWare) https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+  * (엔지니어대한민국) https://www.youtube.com/user/damazzang/videos
+  * (동빈나) https://www.youtube.com/c/dongbinna
+  * (freeCodeCamp.org) https://www.youtube.com/c/Freecodecamp
+  * (MIT OpenCourseWare) https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
   
 2. 알고리즘 이론 (github / blog)
-  - (BaaaaaaaarkingDog) https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2
-  - (VSFe) https://github.com/VSFe/Algorithm_Study
+  * (BaaaaaaaarkingDog) https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2
+  * (VSFe) https://github.com/VSFe/Algorithm_Study
   
 3. 코테 대비 문제집 
-  - (tony9492) https://github.com/tony9402/baekjoon
+  * (tony9492) https://github.com/tony9402/baekjoon
