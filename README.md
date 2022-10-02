@@ -13,7 +13,6 @@
     <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>정진명</b></sub></a><br /></td>    
   </tr>
 </table>
-<br/>
 
 ## 3. 학습목차 📚
 1. (10/4~10/9) 수학(합공식/피보나치수/약수/최대공약수/최소공배수 등), 자료구조 (배열/스택/큐/합/포인트 등)
