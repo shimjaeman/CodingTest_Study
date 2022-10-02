@@ -23,19 +23,19 @@
 * 참고 : https://github.com/VSFe/Algorithm_Study
 
 ## 4. 규칙 📜
-### one day 
+### One Day 
 * 코딩 테스트 1문제 이상 문제풀이하고 저녁 12시전까지 인증할 것
 
-### weekend 
+### Weekend 
 * 매주 정해진 공부범위를 공부 후 정리해서 일요일 12시전까지 인증할 것
 * (미정) 주 1회 전주 학습 상태 점검(노트 필기 or 개인 sns 페이지 등) 및 질의응답 시간
 
-### penalty (미정)
+### Penalty (미정)
 * one day :
 * weekend : 
 * weekend meeting :
 
-### feature plan 
+### Future plan
 * 개별적으로 알고리즘 이론공부가 끝난 뒤 계획은 차후에 다시 의논할 예정
 
 ## 5. 참고 도서 📖
