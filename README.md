@@ -6,15 +6,14 @@
 ## 2. 스터디 참여 인원 👩‍💻
 <table>
   <tr>
-    <td align="center"><a href="(https://github.com/shimjaeman)"><img src="https://avatars.githubusercontent.com/u/95950967?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shimjaeman</b></sub></a><br /></td>
-    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>1109code</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/shimjaeman"><img src="https://avatars.githubusercontent.com/u/95950967?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=sjm2449" widt="100px"><br /><sub><b>심재만</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>손태산</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>김진수</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>안승아</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>정진명</b></sub></a><br /></td>    
   </tr>
 </table>
-* <a href="https://github.com/shimjaeman">심재만</a>
-* <a href="">손태산</a>
-* <a href="">김진수</a>
-* <a href="">안승아</a>
-* <a href="">정진명</a>
+<br/>
 
 ## 3. 학습목차 📚
 1. (10/4~10/9) 수학(합공식/피보나치수/약수/최대공약수/최소공배수 등), 자료구조 (배열/스택/큐/합/포인트 등)
