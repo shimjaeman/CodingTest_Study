@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/shimjaeman"><img src="https://avatars.githubusercontent.com/u/95950967?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=sjm2449" widt="100px"><br /><sub><b>심재만</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>손태산</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/steadyfox2"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>손태산</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>김진수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/깃허브아이디"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>안승아</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jeongjinmyung"><img src="https://avatars.githubusercontent.com/u/프로필사진?v=4?s=100" width="100px;" alt=""/><br /><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디" widt="100px"><br /><sub><b>정진명</b></sub></a><br /></td>    
