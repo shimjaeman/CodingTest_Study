@@ -1,0 +1,8 @@
+N = int(input())
+A = set(map(int, input().split()))
+
+M = int(input())
+targets = list(map(int, input().split()))
+
+for num in targets:
+    print(1) if num in A else print(0)
