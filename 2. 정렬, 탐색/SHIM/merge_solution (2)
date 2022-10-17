@@ -1,0 +1,43 @@
+import sys
+input = sys.stdin.readline
+print = sys.stdout.write
+
+def MergeSort(s, e):
+    if e-s < 1: return
+    m = int(s + (e-s) / 2)
+    MergeSort(s, m)
+    MergeSort(m+1, e)
+    for i in range(s, e+1):
+        tmp[i] = result[i]
+    K = s
+    left = s
+    right = m + 1
+    while left <= m and right <= e:
+        if tmp[left] < tmp[right]:
+            result[K] = tmp[left]
+            K += 1
+            left += 1
+        else :
+            result[K] = tmp[right]
+            K += 1
+            right +=1
+    while left <= m :
+        result[K] = tmp[left]
+        K +=1
+        left += 1
+    while right <= e:
+        result[K] = tmp[right]
+        K +=1
+        right += 1
+
+N = int(input())
+result = [0] * int(N+1)
+tmp = [0] * int(N+1)
+
+for i in range(1, N+1):
+    result[i] = int(input())
+
+MergeSort(1, N)
+
+print(result)
+>>> [0, 1, 2, 3, 4, 5]
